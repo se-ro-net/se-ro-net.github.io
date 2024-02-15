@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Roth;Sebastian;;;
+FN:Sebastian Roth
+ORG:se-ro networks
+ADR;TYPE=WORK:
+TITLE:Netzwerkadministration
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:info@se-ro.net
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100327067
+END:VCARD
